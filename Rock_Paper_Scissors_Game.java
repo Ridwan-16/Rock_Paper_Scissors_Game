@@ -23,6 +23,5 @@ public class Rock_Paper_Scissors_Game {
         }else{
             System.out.println("wrong stake!!!!!\nyou should take between 1 to 3");
         }
-
     }
 }
